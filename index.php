@@ -52,13 +52,13 @@
     <?php include_once'layout/about.php'; ?>
     <!-- end about us -->
 
-    <?php include_once'layout/special_menu.php'; ?>
+    
     <!-- end special-menu -->
 
     <?php include_once'layout/menu.php'; ?>
     <!-- end menu -->
 
-    <?php include_once'layout/our_team.php'; ?>
+    
     <!-- end team-main -->
 
     <?php include_once'layout/gallery.php'; ?>
