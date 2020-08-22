@@ -45,20 +45,20 @@
     </div>
     <?php include_once'layout/header.php'; ?>
 	<!-- end site-header -->
-	
+
     <?php include_once 'layout/banner.php'; ?>
     <!-- end banner -->
 
     <?php include_once'layout/about.php'; ?>
     <!-- end about us -->
 
-    
+
     <!-- end special-menu -->
 
-    <?php include_once'layout/menu.php'; ?>
+    <?php include_once'layout/son1.php'; ?>
     <!-- end menu -->
 
-    
+
     <!-- end team-main -->
 
     <?php include_once'layout/gallery.php'; ?>
