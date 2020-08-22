@@ -1,3 +1,3 @@
-<?p
+<?php
 
 if(!$_POST) exit;
